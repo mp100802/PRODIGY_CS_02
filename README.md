@@ -36,7 +36,7 @@ pip install pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pixel-manipulation-encryption-tool.git
+git clone https://github.com/mp100802/PRODIGY_CS_02.git
 ```
 
 2. Navigate to the project directory:
